@@ -1,7 +1,7 @@
 # blockgames-contribution
 My Contribution to my team during blockgames internship
 
-Project 1
+# Project 1
 - wrote smart contract test : 
      - https://github.com/Epic-Byte/NestCoinFullStack/commit/c3d950c79d9c13b33523658a2301f79ca0f2074f
      - https://github.com/Epic-Byte/NestCoinFullStack/commit/685915c7c7fe89b22ab95fab5e1fb147f1bff311
@@ -14,7 +14,7 @@ Project 1
 - update logo on frontend : https://github.com/Epic-Byte/NestCoinFullStack/commit/0e0edcc370c2b6a300a794b751d67b89e4baa04c
 -  change nesttokenbalance to totalsupply : https://github.com/Epic-Byte/NestCoinFullStack/commit/3890e0355c5b5029bb4101ea3c53dc8cd414c046
 
-Project 2
+# Project 2
 - add unit testing of smart contract : https://github.com/Epic-Byte/NestCoinLibrary/commit/b848ce0f8dc831cc284b6d57a364324fd724f13f
 - Add emiting of event on share : https://github.com/Epic-Byte/NestCoinLibrary/commit/ee1f5acf8411a17c7b3dee6ca7b1084a7ad679d9
 - Add Readme : https://github.com/Epic-Byte/NestCoinLibrary/commit/bbf9790544424a6337fcd5a5b71dbf5bffc42491
