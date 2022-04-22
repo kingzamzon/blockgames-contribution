@@ -27,3 +27,7 @@ My Contribution to my team during blockgames internship
 - Change from checkbox public/private to switch : https://github.com/Epic-Byte/NestCoinLibrary/commit/b35d5d0e3157ab0e8260f14948600c13a567ce93
 - implement sharing history for frontend : https://github.com/Epic-Byte/NestCoinLibrary/commit/180132b2865d24b875810606e3940768319c20d9 , https://github.com/Epic-Byte/NestCoinLibrary/commit/92390187a58c6b37ed85fca1e851e2f0cc15da3b
 - implement download of file : https://github.com/Epic-Byte/NestCoinLibrary/commit/0da27d1e74e222cf769c1e98b77e37ab495d9af8
+
+# Project 3
+- wrote unit test  : https://github.com/Team-H-BG/Election-Challange/commits?author=kingzamzon
+- wrote react frontend : https://github.com/Team-H-BG/Election-Challange/commits?author=kingzamzon
